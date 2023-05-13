@@ -1,4 +1,4 @@
-### <p dir="auto">Hi, my name is Rioz<g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">👋</g-emoji></p>
+### <p dir="auto">Hi, my name is Rioz 👋</g-emoji></p>
 
 <div>
 <a href="https://github.com/shrwed">
