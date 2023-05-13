@@ -1,4 +1,4 @@
-<h1> Hi, my name is Rioz 👋 </h1>
+<h1> Hi there 👋 </h1>
   
 <div>
 <a href="https://github.com/shrwed">
