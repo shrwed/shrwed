@@ -23,6 +23,10 @@ src="https://camo.githubusercontent.com/9e9e8a703df0e22b70bf643a8a3a350c81a8fb33
 <br>
 <br>
 <div display="inline">
-  <img width="110" height="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img width="110" height="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />
 </div>
+<br>
+
+<img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" img height="30em"/>
+<tt><b>3MUarcah7pMHMmwrbaiRthZKHhqmUYBVdW</b></tt>
