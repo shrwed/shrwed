@@ -1,4 +1,5 @@
-### <p Hi, my name is Rioz 👋 </p>
+::before
+Hi, my name is Rioz 👋
 
 <div>
 <a href="https://github.com/shrwed">
