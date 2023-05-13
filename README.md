@@ -1,4 +1,4 @@
-### <p dir="auto" role="textbox" aria-label="Hi, my name is Rioz 👋" </p> <head>
+### <p dir="auto" aria-label="Hi, my name is Rioz 👋" </p>
 
 <div>
 <a href="https://github.com/shrwed">
