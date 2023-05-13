@@ -24,6 +24,6 @@ src="https://camo.githubusercontent.com/9e9e8a703df0e22b70bf643a8a3a350c81a8fb33
 </a>
 
 <div display="inline">
-  <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />
+  <img width="110" height="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img width="110" height="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />
 </div>
