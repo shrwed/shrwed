@@ -1,4 +1,4 @@
-### <p dir="auto">Hi, my name is Rioz 👋</g-emoji></p>
+### <p dir="auto" role="textbox" aria-label="Hi, my name is Rioz 👋" </p> 
 
 <div>
 <a href="https://github.com/shrwed">
